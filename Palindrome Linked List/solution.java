@@ -53,8 +53,9 @@ public class Solution {
         while (node1!= null) {
             node2 = node1.next;
             node1.next = node3;
+			node3 = node1;
             node1 = node2;
-             node3 = node1;
+             
             
         }
         return res;
