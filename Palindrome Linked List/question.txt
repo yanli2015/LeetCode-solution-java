@@ -1,0 +1,1 @@
+Implement a function to check if a linked list is a palindrome.Could you do it in O(n) time and O(1) space?
